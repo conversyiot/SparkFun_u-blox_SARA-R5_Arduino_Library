@@ -1,3 +1,6 @@
+Forked from sparkfun,
+guide: https://learn.sparkfun.com/tutorials/lte-gnss-breakout---sara-r5-hookup-guide/all
+
 SparkFun u-blox SARA-R5 Arduino Library
 ==============================
 
